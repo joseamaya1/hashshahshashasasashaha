@@ -1,12 +1,10 @@
-# OTXServer Full Global Daily Updated!  [![Travis-CI Build Status](https://travis-ci.org/malucooo/Otxserver-New.svg?branch=master)](https://travis-ci.org/malucooo/Otxserver-New) [![Appveyor Build Status](https://ci.appveyor.com/api/projects/status/github/malucooo/otxserver-new?branch=master&svg=true)](https://ci.appveyor.com/project/malucooo/otxserver-new/) 
+# Daily Updated! [![Appveyor Build Status](https://ci.appveyor.com/api/projects/status/github/joseamaya1/hashshahshashasasashaha?branch=master&svg=true)](https://ci.appveyor.com/project/joseamaya1/hashshahshashasasashaha) 
 
 Servidor de Tibia mantido por Malucooo. O servidor usa como base Otxserver 3.9 e também TFS 1.3.
 
-# Tutoriais
-Temos uma Wiki explicando como compilar o servidor  [OTXServer Wiki](https://github.com/malucooo/Otxserver-New/wiki)
 
 # Downloads
-Executaveis compilados [AppVeyor builds for Windows](https://ci.appveyor.com/project/malucooo/otxserver-new)
+Executaveis compilados [AppVeyor builds for Windows](https://ci.appveyor.com/project/joseamaya1/hashshahshashasasashaha)
 
 # Login.php para client 11
 Já funciona a última versão: [Znote AAC](https://github.com/Znote/ZnoteAAC).
