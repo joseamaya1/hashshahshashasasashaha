@@ -13,7 +13,7 @@ function onStepIn(creature, item, position, fromPosition)
 	else
 		player:teleportTo(fromPosition)
 		fromPosition:sendMagicEffect(CONST_ME_TELEPORT)
-		player:sendTextMessage(MESSAGE_STATUS_SMALL, 'You not have permission to pass here.')
+		player:sendTextMessage(MESSAGE_EVENT_ADVANCE, 'You not have permission to pass here.')
 	end
 	return true
 end
