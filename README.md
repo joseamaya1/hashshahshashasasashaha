@@ -1,4 +1,4 @@
-# Daily Updated! [![Appveyor Build Status](https://ci.appveyor.com/api/projects/status/github/joseamaya1/hashshahshashasasashaha?branch=master&svg=true)](https://ci.appveyor.com/project/joseamaya1/hashshahshashasasashaha) 
+# Daily Updated! [![Travis-CI Build Status](https://travis-ci.org/joseamaya1/hashshahshashasasashaha.svg?branch=master)](https://travis-ci.org/joseamaya1/hashshahshashasasashaha) [![Appveyor Build Status](https://ci.appveyor.com/api/projects/status/github/joseamaya1/hashshahshashasasashaha?branch=master&svg=true)](https://ci.appveyor.com/project/joseamaya1/hashshahshashasasashaha) 
 
 # Downloads
 Ejecutables Compilados [AppVeyor builds for Windows](https://ci.appveyor.com/project/joseamaya1/hashshahshashasasashaha)
