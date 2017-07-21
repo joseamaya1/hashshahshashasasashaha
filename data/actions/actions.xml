@@ -2,6 +2,7 @@
 <actions>
 	<!-- Vip System -->
 	<action itemid="12666" script="other/vip.lua"/>
+	<action uniqueid="11551" script="other/vip door.lua" />
 	
 	<!-- Casks and Kegs -->
 	<action fromid="7634" toid="7636" script="other/caskkegs.lua"/>
