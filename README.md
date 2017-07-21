@@ -8,4 +8,4 @@ Ejecutables Compilados [AppVeyor builds for Windows](https://ci.appveyor.com/pro
 
 [Gesior](https://gist.github.com/jlcvp/2f1772cbbcdfc966ee982985326d964a)
 # Issues / Problemas
-Utilizamos [Issue Tracker do Github](https://github.com/joseamaya1/hashshahshashasasashaha/issues).
+Utilizamos [Issue Tracker de Github](https://github.com/joseamaya1/hashshahshashasasashaha/issues).
