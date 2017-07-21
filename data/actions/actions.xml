@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <actions>
+	<!-- Vip System -->
+	<action itemid="12666" script="other/vip.lua"/>
+	
 	<!-- Casks and Kegs -->
 	<action fromid="7634" toid="7636" script="other/caskkegs.lua"/>
 
