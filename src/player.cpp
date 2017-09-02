@@ -703,13 +703,8 @@ bool Player::canWalkthrough(const Creature* creature) const
 	if (group->access || creature->isInGhostMode()) {
 		return true;
 	}
-
-	const Player* player = creature->getPlayer();
-	if (!player) {
-		return false;
-	}
 	
-		const Player* player = creature->getPlayer();
+	const Player* player = creature->getPlayer();
 	if (!player || !g_config.getBoolean(ConfigManager::ALLOW_WALKTHROUGH)) {
 		return false;
 	}
