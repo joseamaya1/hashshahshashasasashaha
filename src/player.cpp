@@ -708,6 +708,11 @@ bool Player::canWalkthrough(const Creature* creature) const
 	if (!player) {
 		return false;
 	}
+	
+		const Player* player = creature->getPlayer();
+	if (!player || !g_config.getBoolean(ConfigManager::ALLOW_WALKTHROUGH)) {
+		return false;
+	}
 
 	const Tile* playerTile = player->getTile();
 	if (!playerTile || !playerTile->hasFlag(TILESTATE_PROTECTIONZONE)) {
