@@ -19,6 +19,7 @@ monthKillsToRedSkull = 10
 redSkullDuration = 30
 blackSkullDuration = 45
 orangeSkullDuration = 7
+allowWalkthrough = true
 
 -- Connection Config
 -- NOTE: maxPlayers set to 0 means no limit
